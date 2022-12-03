@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: e32c292067e046b4f8ca3e5240fd763e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - rigid: {instanceID: 0}
+  - pin: {fileID: 7810712304601420027, guid: ccf41bf60edf38846a4116eb5a9d719f, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
